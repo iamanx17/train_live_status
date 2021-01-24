@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'train.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'d37grp18kq17mo',
+        'NAME':'dfcseokqd8e6mi',
         'HOST':'ec2-52-71-107-99.compute-1.amazonaws.com',
-        'USER':'fxpxfgrixzlphs',
-        'PASSWORD':'71a2fc75aa3203ab6026b9448e9e4732860b45c87bbd8b7314ac21ee5c40fee8'
+        'USER':'ccnvpdomzblpbo',
+        'PASSWORD':'1c1bfa727604be4a280c084275dac5badcf234b88dcfddf66b3c4367e3fe018b',
     }
 }
 
